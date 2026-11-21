@@ -11,7 +11,8 @@ The web client of the latest release is also available at https://query.comunica
 
 The CI of [comunica/comunica](https://github.com/comunica/comunica) builds these web clients,
 and deploys them to the `gh-pages` branch of this repository, from which they are served with GitHub Pages.
-Each branch or release has its own directory, such as `master/` or `v5.4.1/`, and each config in it has its own subdirectory, such as `master/default/`.
+Each branch has its own directory, such as `master/`, and each minor release has one, such as `v5.4/`, which contains its latest patch release.
+Each config in it has its own subdirectory, such as `master/default/`.
 
 Every deploy replaces the `gh-pages` branch with a single commit, so its history is not kept.
 Changes to the branch are kept by later deploys, which is how old releases can be removed if the site grows too large.
