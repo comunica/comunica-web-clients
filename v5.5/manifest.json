@@ -1,0 +1,15 @@
+{
+  "name": "v5.5.1",
+  "directory": "v5.5",
+  "sha": "78f4fbb0ecdbd005ae04e1004b912dcb2dc33a6a",
+  "release": true,
+  "sourceUrl": "https://github.com/comunica/comunica/releases/tag/v5.5.1",
+  "date": "2026-11-27T12:53:12.265Z",
+  "clients": [
+    {
+      "id": "default",
+      "label": "Default",
+      "description": "The default config of Comunica SPARQL."
+    }
+  ]
+}

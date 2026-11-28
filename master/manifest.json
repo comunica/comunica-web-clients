@@ -1,0 +1,15 @@
+{
+  "name": "master",
+  "directory": "master",
+  "sha": "4d9faa8a2f0f6c8c0c390a764e2ef633b2b5e919",
+  "release": false,
+  "sourceUrl": "https://github.com/comunica/comunica/commit/4d9faa8a2f0f6c8c0c390a764e2ef633b2b5e919",
+  "date": "2026-11-28T13:21:43.512Z",
+  "clients": [
+    {
+      "id": "default",
+      "label": "Default",
+      "description": "The default config of Comunica SPARQL."
+    }
+  ]
+}

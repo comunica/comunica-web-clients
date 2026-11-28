@@ -1,0 +1,15 @@
+{
+  "name": "next/minor",
+  "directory": "next-minor",
+  "sha": "620670788ef9a01b3ce98dae7fe677bae1f463d7",
+  "release": false,
+  "sourceUrl": "https://github.com/comunica/comunica/commit/620670788ef9a01b3ce98dae7fe677bae1f463d7",
+  "date": "2026-11-28T15:21:08.250Z",
+  "clients": [
+    {
+      "id": "default",
+      "label": "Default",
+      "description": "The default config of Comunica SPARQL."
+    }
+  ]
+}
